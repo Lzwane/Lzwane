@@ -35,7 +35,7 @@ This project was built using a beginner-friendly stack including **HTML, CSS, Ja
 ---
 
 ### 🙌 Let’s Connect!
-- 💼 [LinkedIn](www.linkedin.com/in/lethabo-zwane-8296892b3)
+- 💼 [LinkedIn] (https://www.linkedin.com/in/lethabo-zwane-8296892b3/)
 - 📧 Email: lethabozwane04@gmail.com
 - 🔍 Exploring: Collaboration on impactful youth-centered or education-related tech
 
